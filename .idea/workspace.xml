@@ -1,13 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a8144da1-b50c-4044-91be-5df2c35f4956" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/chapter2/takeaways/trade_day.class.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter2/takeaways/trade_day.dataclass.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter2/takeaways/trade_day.namedtuple.ipynb" afterDir="false" />
+    <list default="true" id="a8144da1-b50c-4044-91be-5df2c35f4956" name="Default Changelist" comment="Added Data Plot">
+      <change afterPath="$PROJECT_DIR$/chapter2/2.3.2.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter2/2.3.3.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter2/2.4.1.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter2/strategy_1.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter2/strategy_2.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter2/strategy_base.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter2/trade_loopback.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter2/tradedays.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2/2.1/2.1.1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/2.1/2.1.1.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2/2.3/2.3.1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/2.3/2.3.1.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter2/2.1/2.1.1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/2.1.1.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter2/2.1/2.1.2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/2.1.2.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter2/2.2/2.2.1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/2.2.1.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter2/2.2/2.2.2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/2.2.2.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter2/2.2/2.2.3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/2.2.3.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter2/2.2/2.2.4.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/2.2.4.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter2/2.3/2.3.1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/2.3.1.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter2/2.3/2.3.2.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter2/takeaways/trade_day.class.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/performance/tradeday_class.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter2/takeaways/trade_day.dataclass.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/performance/tradeday_dataclass.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter2/takeaways/trade_day.namedtuple.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/performance/tradeday_namedtuple.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,53 +45,18 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter2/2.1/2.1.1.ipynb">
-          <provider selected="true" editor-type-id="jupyter-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter2/2.1/2.1.2.ipynb">
-          <provider selected="true" editor-type-id="jupyter-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter2/2.2/2.2.1.ipynb">
-          <provider selected="true" editor-type-id="jupyter-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter2/2.2/2.2.2.ipynb">
-          <provider selected="true" editor-type-id="jupyter-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter2/2.2/2.2.3.ipynb">
-          <provider selected="true" editor-type-id="jupyter-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter2/2.2/2.2.4.ipynb">
-          <provider selected="true" editor-type-id="jupyter-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter2/2.3/2.3.1.ipynb">
-          <provider selected="true" editor-type-id="jupyter-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter2/takeaways/trade_day.class.ipynb">
-          <provider selected="true" editor-type-id="jupyter-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter2/takeaways/trade_day.dataclass.ipynb">
-          <provider selected="true" editor-type-id="jupyter-editor" />
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/chapter2/takeaways/trade_day.namedtuple.ipynb">
+        <entry file="file://$PROJECT_DIR$/chapter2/2.4.1.ipynb">
+          <provider selected="true" editor-type-id="jupyter-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chapter2/trade_loopback.ipynb">
+          <provider selected="true" editor-type-id="jupyter-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chapter2/2.3.2.ipynb">
           <provider selected="true" editor-type-id="jupyter-editor" />
         </entry>
       </file>
@@ -85,9 +64,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>&lt;</find>
-      <find>enum</find>
-      <find>2.3.</find>
       <find>start_date</find>
       <find>str</find>
       <find>insert</find>
@@ -99,10 +75,25 @@
       <find>type</find>
       <find>dict</find>
       <find>str(</find>
-      <find>lambda</find>
       <find>round</find>
+      <find>keep_stock_day</find>
+      <find>keep_stock</find>
+      <find>lambda</find>
+      <find>List</find>
+      <find>reduce</find>
+      <find>profit_array</find>
+      <find>7%</find>
+      <find>0.07</find>
       <find>named</find>
+      <find>trade_strategy</find>
+      <find>loop</find>
+      <find>held_period_days</find>
+      <find>tradeStra</find>
       <find>change</find>
+      <find>StockTradeDays</find>
+      <find>price_array</find>
+      <find>reduc</find>
+      <find>trade_days has</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -112,13 +103,14 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/chapter2/2.3/2.3.2.ipynb" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="1347" />
-    <option name="width" value="93" />
-    <option name="height" value="900" />
+    <option name="x" value="883" />
+    <option name="width" value="1677" />
+    <option name="height" value="1440" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -140,30 +132,6 @@
               <item name="BtMbQT_Py" type="462c0819:PsiDirectoryNode" />
               <item name="chapter2" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="BtMbQT_Py" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BtMbQT_Py" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter2" type="462c0819:PsiDirectoryNode" />
-              <item name="2.1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BtMbQT_Py" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BtMbQT_Py" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter2" type="462c0819:PsiDirectoryNode" />
-              <item name="2.2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BtMbQT_Py" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BtMbQT_Py" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter2" type="462c0819:PsiDirectoryNode" />
-              <item name="2.3" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BtMbQT_Py" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BtMbQT_Py" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter2" type="462c0819:PsiDirectoryNode" />
-              <item name="takeaways" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -180,12 +148,6 @@
               <item name="~/Desktop/PM/Python/BtMbQT_Py" type="442cc68d:ScopeViewTreeModel$RootNode" />
               <item name="chapter2" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
-            <path>
-              <item name="BtMbQT_Py" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="~/Desktop/PM/Python/BtMbQT_Py" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="chapter2" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="2.3" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -195,13 +157,21 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/chapter2/2.4" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/chapter2" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/chapter2/2.4" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -233,7 +203,7 @@
       <workItem from="1558956253548" duration="253000" />
       <workItem from="1558956516235" duration="213000" />
       <workItem from="1558956750458" duration="141000" />
-      <workItem from="1558956944733" duration="20101000" />
+      <workItem from="1558956944733" duration="33483000" />
     </task>
     <task id="LOCAL-00001" summary="Completed 2.1">
       <created>1558318045924</created>
@@ -263,18 +233,39 @@
       <option name="project" value="LOCAL" />
       <updated>1559082376817</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Built 3 models for data&#10;Performance Testing">
+      <created>1559101267175</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1559101267175</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Create 1st Trading Strategy&#10;Created Back Testing Tools&#10;Back Tested">
+      <created>1559111037778</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1559111037778</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Added Data Plot">
+      <created>1559111627184</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1559111627184</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26722000" />
+    <option name="totallyTimeSpent" value="40104000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
+    <frame x="774" y="0" width="1786" height="1440" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12260128" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4990366" visible="true" weight="0.17221585" />
+      <window_info id="Structure" order="1" sideWeight="0.5009634" side_tool="true" visible="true" weight="0.17221585" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -284,12 +275,12 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.329927" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.329927" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.2430657" />
       <window_info anchor="bottom" id="Python Console" order="12" />
-      <window_info anchor="bottom" id="Jupyter" order="13" weight="0.24257426" />
+      <window_info anchor="bottom" id="Jupyter" order="13" visible="true" weight="0.24233577" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -335,17 +326,12 @@
     <MESSAGE value="Completed 2.2.1" />
     <MESSAGE value="Completed 2.3.1" />
     <MESSAGE value="Dynamically read data from MasterCard" />
-    <option name="LAST_COMMIT_MESSAGE" value="Dynamically read data from MasterCard" />
+    <MESSAGE value="Built 3 models for data&#10;Performance Testing" />
+    <MESSAGE value="Create 1st Trading Strategy&#10;Created Back Testing Tools&#10;Back Tested" />
+    <MESSAGE value="Added Data Plot" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Data Plot" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LICENSE">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -363,38 +349,75 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chapter2/2.3/2.3.2.ipynb">
+    <entry file="file://$PROJECT_DIR$/chapter2/2.2.4.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter2/2.1.1.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter2/2.1.2.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter2/2.2.1.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter2/2.2.2.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter2/2.2.3.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter2/2.3.1.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="210">
+            <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter2/2.3/2.3.3">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter2/performance/tradeday_dataclass.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter2/performance/tradeday_namedtuple.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter2/2.4/strategy_2.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter2/2.3.3.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter2/tradedays.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter2/strategy_1.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter2/strategy_2.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter2/strategy_base.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter2/performance/tradeday_class.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter2/2.3.2.ipynb">
       <provider editor-type-id="text-editor" />
       <provider selected="true" editor-type-id="jupyter-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/chapter2/2.2/2.2.4.ipynb">
+    <entry file="file://$PROJECT_DIR$/chapter2/trade_loopback.ipynb">
       <provider selected="true" editor-type-id="jupyter-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/chapter2/2.3/2.3.1.ipynb">
-      <provider selected="true" editor-type-id="jupyter-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter2/2.1/2.1.1.ipynb">
-      <provider selected="true" editor-type-id="jupyter-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter2/2.1/2.1.2.ipynb">
-      <provider selected="true" editor-type-id="jupyter-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter2/2.2/2.2.1.ipynb">
-      <provider selected="true" editor-type-id="jupyter-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter2/2.2/2.2.2.ipynb">
-      <provider selected="true" editor-type-id="jupyter-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter2/2.2/2.2.3.ipynb">
-      <provider selected="true" editor-type-id="jupyter-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter2/takeaways/trade_day.dataclass.ipynb">
-      <provider selected="true" editor-type-id="jupyter-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter2/takeaways/trade_day.class.ipynb">
-      <provider selected="true" editor-type-id="jupyter-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter2/takeaways/trade_day.namedtuple.ipynb">
+    <entry file="file://$PROJECT_DIR$/chapter2/2.4.1.ipynb">
       <provider selected="true" editor-type-id="jupyter-editor" />
     </entry>
   </component>
