@@ -13,3 +13,7 @@ This repo contains my exercise for book Beat the Market by Quantitative Trading 
 - back test
 
 - ploting
+
+# Objects
+
+TradeDay: A NameTuple object represting a trade day. 
