@@ -2,20 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a8144da1-b50c-4044-91be-5df2c35f4956" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/chapter2/tradeday/tradeday_dataclass_test.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter2/tradeday/tradeday_namedtuple_test.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter2/tradeday/tradeday_object_test.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter2/2.4.2.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter2/2.4.3.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2/2.3.2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/2.3.2.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2/2.3.3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/2.3.3.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/chapter2/2.4.1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/2.4.1.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2/performance/tradeday_dataclass.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/tradeday/tradeday_dataclass.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2/performance/tradeday_namedtuple.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/tradeday/tradeday_namedtuple.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2/performance/tradeday_object.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/tradeday/tradeday_object.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2/strategy_1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/strategy_1.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2/strategy_2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/strategy_2.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2/strategy_base.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/strategy_base.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2/trade_loopback.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/trade_loopback.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,28 +29,8 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter2/2.3.2.ipynb">
-          <provider selected="true" editor-type-id="jupyter-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter2/strategy_base.ipynb">
-          <provider selected="true" editor-type-id="jupyter-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter2/strategy_2.ipynb">
-          <provider selected="true" editor-type-id="jupyter-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter2/strategy_1.ipynb">
-          <provider selected="true" editor-type-id="jupyter-editor" />
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/chapter2/trade_loopback.ipynb">
+        <entry file="file://$PROJECT_DIR$/chapter2/2.4.3.ipynb">
           <provider selected="true" editor-type-id="jupyter-editor" />
         </entry>
       </file>
@@ -68,13 +38,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>lambda</find>
-      <find>List</find>
-      <find>reduce</find>
-      <find>profit_array</find>
-      <find>7%</find>
-      <find>0.07</find>
-      <find>named</find>
       <find>trade_strategy</find>
       <find>loop</find>
       <find>held_period_days</find>
@@ -91,13 +54,20 @@
       <find>class</find>
       <find>tradeday</find>
       <find>TradeLoopBack</find>
-      <find>import</find>
       <find>s</find>
       <find>TradeStrategyBase</find>
       <find>BaseStrategy</find>
-      <find>base</find>
       <find>BaseStrate</find>
+      <find>BaseStrateg</find>
       <find>BaseStra</find>
+      <find>base</find>
+      <find>Ba</find>
+      <find>strategies.</find>
+      <find>keep_stock_threshold</find>
+      <find>StrategyResult</find>
+      <find>product</find>
+      <find>strategyresult</find>
+      <find>import</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -114,8 +84,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="width" value="1440" />
-    <option name="height" value="900" />
+    <option name="x" value="883" />
+    <option name="width" value="1677" />
+    <option name="height" value="1440" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -152,6 +123,12 @@
               <item name="BtMbQT_Py" type="b2602c69:ProjectViewProjectNode" />
               <item name="BtMbQT_Py" type="462c0819:PsiDirectoryNode" />
               <item name="chapter2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BtMbQT_Py" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BtMbQT_Py" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter2" type="462c0819:PsiDirectoryNode" />
+              <item name="tradeday" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -216,7 +193,7 @@
       <workItem from="1559448401173" duration="8000" />
       <workItem from="1559454913469" duration="643000" />
       <workItem from="1559455855750" duration="1269000" />
-      <workItem from="1559457370270" duration="2549000" />
+      <workItem from="1559457370270" duration="11096000" />
     </task>
     <task id="LOCAL-00001" summary="Completed 2.1">
       <created>1558318045924</created>
@@ -288,17 +265,24 @@
       <option name="project" value="LOCAL" />
       <updated>1559438350732</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Tweeking file imports">
+      <created>1559461323651</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1559461323651</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="63269000" />
+    <option name="totallyTimeSpent" value="71816000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="773" y="0" width="1787" height="1440" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.5441767" visible="true" weight="0.1769341" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.5441767" visible="true" weight="0.1417097" />
       <window_info id="Structure" order="1" sideWeight="0.4558233" side_tool="true" weight="0.21489972" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -311,10 +295,10 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.329927" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.504298" side_tool="true" visible="true" weight="0.22771084" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5043029" side_tool="true" visible="true" weight="0.1379562" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.2430657" />
       <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.49928367" weight="0.32891566" />
-      <window_info anchor="bottom" id="Jupyter" order="13" sideWeight="0.495702" visible="true" weight="0.22771084" />
+      <window_info active="true" anchor="bottom" id="Jupyter" order="13" sideWeight="0.49569708" visible="true" weight="0.1379562" />
       <window_info anchor="bottom" id="Pylint" order="14" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -367,7 +351,8 @@
     <MESSAGE value="Use itertools to find the best params for the best results" />
     <MESSAGE value="Added Performance Report Article" />
     <MESSAGE value="Clean up" />
-    <option name="LAST_COMMIT_MESSAGE" value="Clean up" />
+    <MESSAGE value="Tweeking file imports" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tweeking file imports" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/LICENSE">
@@ -401,9 +386,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/chapter2/2.3/2.3.3" />
     <entry file="file://$PROJECT_DIR$/chapter2/2.4/strategy_2.ipynb" />
-    <entry file="file://$PROJECT_DIR$/chapter2/2.1.1.ipynb">
-      <provider selected="true" editor-type-id="jupyter-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -437,9 +419,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/chapter2/strategies/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter2/tradeday/tradeday_object_test.ipynb">
-      <provider selected="true" editor-type-id="jupyter-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/chapter2/tradeday/tradeday_namedtuple_test.ipynb">
       <provider selected="true" editor-type-id="jupyter-editor" />
@@ -476,32 +455,44 @@
     <entry file="file://$PROJECT_DIR$/chapter2/tradeday/tradeday_dataclass.ipynb">
       <provider selected="true" editor-type-id="jupyter-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/chapter2/tradeday/tradeday_namedtuple.ipynb">
-      <provider selected="true" editor-type-id="jupyter-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter2/tradeday/tradeday_object.ipynb">
-      <provider selected="true" editor-type-id="jupyter-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/chapter2/2.3.3.ipynb">
       <provider selected="true" editor-type-id="jupyter-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/chapter2/2.4.1.ipynb">
+    <entry file="file://$PROJECT_DIR$/chapter2/strategy_1.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter2/strategy_base.ipynb">
       <provider selected="true" editor-type-id="jupyter-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/chapter2/2.3.2.ipynb">
       <provider editor-type-id="text-editor" />
       <provider selected="true" editor-type-id="jupyter-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/chapter2/strategy_base.ipynb">
+    <entry file="file://$PROJECT_DIR$/chapter2/trade_loopback.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter2/2.4.2.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter2/2.4.1.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter2/tradeday/tradeday_namedtuple.ipynb">
       <provider selected="true" editor-type-id="jupyter-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/chapter2/strategy_2.ipynb">
       <provider selected="true" editor-type-id="jupyter-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/chapter2/strategy_1.ipynb">
+    <entry file="file://$PROJECT_DIR$/chapter2/tradeday/tradeday_object_test.ipynb">
       <provider selected="true" editor-type-id="jupyter-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/chapter2/trade_loopback.ipynb">
+    <entry file="file://$PROJECT_DIR$/chapter2/2.1.1.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter2/tradeday/tradeday_object.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter2/2.4.3.ipynb">
       <provider selected="true" editor-type-id="jupyter-editor" />
     </entry>
   </component>
