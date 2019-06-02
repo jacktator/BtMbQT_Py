@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a8144da1-b50c-4044-91be-5df2c35f4956" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/chapter2/2.4.2.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter2/2.4.3.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter2/2.5.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter2/2.6.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter3/3.1.1.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter3/3.1.2.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2/2.4.1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/2.4.1.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,8 +30,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/chapter2/2.4.3.ipynb">
+          <provider selected="true" editor-type-id="jupyter-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chapter2/2.5.ipynb">
+          <provider selected="true" editor-type-id="jupyter-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chapter2/2.6.ipynb">
+          <provider selected="true" editor-type-id="jupyter-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chapter3/3.1.1.ipynb">
+          <provider selected="true" editor-type-id="jupyter-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/chapter3/3.1.2.ipynb">
           <provider selected="true" editor-type-id="jupyter-editor" />
         </entry>
       </file>
@@ -122,13 +143,7 @@
             <path>
               <item name="BtMbQT_Py" type="b2602c69:ProjectViewProjectNode" />
               <item name="BtMbQT_Py" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BtMbQT_Py" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BtMbQT_Py" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter2" type="462c0819:PsiDirectoryNode" />
-              <item name="tradeday" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter3" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -193,7 +208,7 @@
       <workItem from="1559448401173" duration="8000" />
       <workItem from="1559454913469" duration="643000" />
       <workItem from="1559455855750" duration="1269000" />
-      <workItem from="1559457370270" duration="11096000" />
+      <workItem from="1559457370270" duration="12856000" />
     </task>
     <task id="LOCAL-00001" summary="Completed 2.1">
       <created>1558318045924</created>
@@ -272,17 +287,24 @@
       <option name="project" value="LOCAL" />
       <updated>1559461323651</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Completed 2.4.2 &amp; 2.4.3">
+      <created>1559480501418</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1559480501418</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="71816000" />
+    <option name="totallyTimeSpent" value="73576000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="773" y="0" width="1787" height="1440" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.5441767" visible="true" weight="0.1417097" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.5441767" visible="true" weight="0.1417097" />
       <window_info id="Structure" order="1" sideWeight="0.4558233" side_tool="true" weight="0.21489972" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -298,7 +320,7 @@
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5043029" side_tool="true" visible="true" weight="0.1379562" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.2430657" />
       <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.49928367" weight="0.32891566" />
-      <window_info active="true" anchor="bottom" id="Jupyter" order="13" sideWeight="0.49569708" visible="true" weight="0.1379562" />
+      <window_info anchor="bottom" id="Jupyter" order="13" sideWeight="0.49569708" visible="true" weight="0.1379562" />
       <window_info anchor="bottom" id="Pylint" order="14" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -352,7 +374,8 @@
     <MESSAGE value="Added Performance Report Article" />
     <MESSAGE value="Clean up" />
     <MESSAGE value="Tweeking file imports" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tweeking file imports" />
+    <MESSAGE value="Completed 2.4.2 &amp; 2.4.3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Completed 2.4.2 &amp; 2.4.3" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/LICENSE">
@@ -493,6 +516,18 @@
       <provider selected="true" editor-type-id="jupyter-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/chapter2/2.4.3.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter2/2.5.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter2/2.6.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter3/3.1.1.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter3/3.1.2.ipynb">
       <provider selected="true" editor-type-id="jupyter-editor" />
     </entry>
   </component>
