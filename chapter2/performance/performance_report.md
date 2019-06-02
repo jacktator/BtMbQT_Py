@@ -8,7 +8,7 @@ I've been programming in an OOP paradigm from my first day as a software enginee
 
 It is for this reason, majority of Financial Trading systems are written in C, C++, Python or Java. 
 
-In this post, I am going to perform a performance tests to compare the different *size* and *speed* when **creating**, **reading** and executing functions for `Object`, `NamedTuple` and the new `DataClass` introduced in Python 3.7  
+In this post, I am going to perform a performance tests to compare the different *size* and *speed* when **creating**, **reading** and executing functions for `Object`, `NamedTuple` and the new `DataClass` introduced in Python 3.7.  
  
  # A day in trading
  
@@ -38,9 +38,9 @@ The Prices object will have the following properties.
 
  To perform tests, I've created the TradeDay and Prices objects using different data types. 
  
- 1. TradeDay & Prices object [written using Object](https://gist.github.com/jacktator/e8e397b05b00c7263b430ac6de13d41e)
- 2. TradeDay & Prices object [written using NamedTuple](https://gist.github.com/jacktator/b2fa2f8ff5d46557c8064b5b5483f055)
- 3. TradeDay & Prices object [written using DataClass](https://gist.github.com/jacktator/3259aea39bd2e21aa97301b63f23a3d0)
+ 1. TradeDay & Prices object [written using Object](https://gist.github.com/jacktator/29de16f85b0371d820d5b464eb685e1f)
+ 2. TradeDay & Prices object [written using NamedTuple](https://gist.github.com/jacktator/8ccd3cee2f192d0c09c3e581529b64ee)
+ 3. TradeDay & Prices object [written using DataClass](https://gist.github.com/jacktator/46782d6aa62c65f22f7c61334e884abb)
  
  ## Creating tradeday object
 
