@@ -2,31 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a8144da1-b50c-4044-91be-5df2c35f4956" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/chapter4/4.4.1.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter4/4.4.2.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter4/4.5.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter4/4.6.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter3/3.1.1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/chapter3/3.1.1.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter3/3.1.2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/chapter3/3.1.2.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter3/3.1.3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/chapter3/3.1.3.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter3/3.1.4.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/chapter3/3.1.4.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter3/3.1.5.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/chapter3/3.1.5.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter3/3.1.6.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/chapter3/3.1.6.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter3/3.2.1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/chapter3/3.2.1.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter3/3.2.2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/chapter3/3.2.2.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter3/3.3.1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/chapter3/3.3.1.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter3/3.3.2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/chapter3/3.3.2.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter3/3.4.2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/chapter3/3.4.2.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter4/4.1.1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/4.1.1.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter4/4.1.2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/4.1.2.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter4/4.1.3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/4.1.3.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter4/4.1.4.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/4.1.4.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter4/4.1.5.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/4.1.5.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter4/4.2.1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/4.2.1.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter4/4.2.2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/4.2.2.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter4/4.2.3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/4.2.3.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter4/4.2.4.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/4.2.4.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter4/4.3.1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/4.3.1.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter4/4.3.2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/4.3.2.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -51,16 +29,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter3/3.4.2.ipynb">
-          <provider selected="true" editor-type-id="jupyter-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter4/4.2.5.ipynb">
-          <provider selected="true" editor-type-id="jupyter-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/chapter4/4.3.2.ipynb">
           <provider selected="true" editor-type-id="jupyter-editor" />
         </entry>
@@ -70,8 +38,18 @@
           <provider selected="true" editor-type-id="jupyter-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/chapter4/4.4.2.ipynb">
+          <provider selected="true" editor-type-id="jupyter-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chapter4/4.5.ipynb">
+          <provider selected="true" editor-type-id="jupyter-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/chapter4/4.6.ipynb">
           <provider selected="true" editor-type-id="jupyter-editor" />
         </entry>
       </file>
@@ -104,8 +82,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>Class</find>
-      <find>class</find>
       <find>tradeday</find>
       <find>TradeLoopBack</find>
       <find>s</find>
@@ -134,6 +110,8 @@
       <find>plot</find>
       <find>scs</find>
       <find>stock_day_change</find>
+      <find>preClose</find>
+      <find>preclose</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -150,9 +128,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="1347" />
-    <option name="width" value="93" />
-    <option name="height" value="900" />
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -162,33 +139,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="BtMbQT_Py" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BtMbQT_Py" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BtMbQT_Py" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BtMbQT_Py" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter3" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BtMbQT_Py" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BtMbQT_Py" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter3" type="462c0819:PsiDirectoryNode" />
-              <item name="gen" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BtMbQT_Py" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BtMbQT_Py" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter4" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="Scope">
         <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
           <expand>
@@ -200,6 +150,22 @@
               <item name="BtMbQT_Py" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="~/Desktop/PM/Python/BtMbQT_Py" type="442cc68d:ScopeViewTreeModel$RootNode" />
               <item name="chapter2" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="BtMbQT_Py" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BtMbQT_Py" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BtMbQT_Py" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BtMbQT_Py" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter4" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -268,7 +234,9 @@
       <workItem from="1559457370270" duration="13409000" />
       <workItem from="1559517542766" duration="34000" />
       <workItem from="1559517598289" duration="13593000" />
-      <workItem from="1559615865173" duration="14971000" />
+      <workItem from="1559615865173" duration="15501000" />
+      <workItem from="1559699468756" duration="1996000" />
+      <workItem from="1559704688685" duration="1117000" />
     </task>
     <task id="LOCAL-00001" summary="Completed 2.1">
       <created>1558318045924</created>
@@ -382,18 +350,32 @@
       <option name="project" value="LOCAL" />
       <updated>1559632566289</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Completed&#10;- 4.4.1&#10;- 4.4.2&#10;Revised &#10;Chapter 3~4">
+      <created>1559692162267</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1559692162267</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Added Data Files">
+      <created>1559692177182</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1559692177182</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="102727000" />
+    <option name="totallyTimeSpent" value="106370000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="777" y="0" width="1783" height="1440" extended-state="0" />
+    <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.5441767" visible="true" weight="0.15813686" />
-      <window_info id="Structure" order="1" sideWeight="0.4558233" side_tool="true" weight="0.21489972" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.5423077" visible="true" weight="0.07995736" />
+      <window_info id="Structure" order="1" sideWeight="0.4576923" side_tool="true" visible="true" weight="0.07995736" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49928367" weight="0.32891566" />
@@ -405,10 +387,10 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.329927" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50891316" side_tool="true" visible="true" weight="0.17737226" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5101279" side_tool="true" visible="true" weight="0.22772278" />
       <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49928367" weight="0.24203822" />
       <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.4979804" weight="0.32846716" />
-      <window_info anchor="bottom" id="Jupyter" order="13" sideWeight="0.49108684" visible="true" weight="0.17737226" />
+      <window_info anchor="bottom" id="Jupyter" order="13" sideWeight="0.48987207" visible="true" weight="0.22772278" />
       <window_info anchor="bottom" id="Pylint" order="14" sideWeight="0.49913445" weight="0.329927" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -467,15 +449,12 @@
     <MESSAGE value="Completed &#10;- 3.1.2&#10;- 3.1.3&#10;- 3.1.4&#10;- 3.1.5&#10;- 3.1.6&#10;- 3.1.7&#10;- 3.2.1&#10;- 3.2.2" />
     <MESSAGE value="Completed &#10;- 3.3.1&#10;- 3.3.2&#10;- 3.4.1&#10;- 3.4.2" />
     <MESSAGE value="Completed&#10;- 4.1.1&#10;- 4.1.2&#10;- 4.1.3&#10;- 4.1.4&#10;- 4.1.5&#10;- 4.2.1&#10;- 4.2.2&#10;- 4.2.3&#10;- 4.2.4&#10;- 4.2.5&#10;- 4.3.1&#10;- 4.3.2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Completed&#10;- 4.1.1&#10;- 4.1.2&#10;- 4.1.3&#10;- 4.1.4&#10;- 4.1.5&#10;- 4.2.1&#10;- 4.2.2&#10;- 4.2.3&#10;- 4.2.4&#10;- 4.2.5&#10;- 4.3.1&#10;- 4.3.2" />
+    <MESSAGE value="Completed&#10;- 4.4.1&#10;- 4.4.2&#10;Revised &#10;Chapter 3~4" />
+    <MESSAGE value="Added Data Files" />
+    <MESSAGE value="Completed&#10;4.5&#10;4.6" />
+    <option name="LAST_COMMIT_MESSAGE" value="Completed&#10;4.5&#10;4.6" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/chapter2/2.3.3.ipynb">
-      <provider selected="true" editor-type-id="jupyter-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter2/strategy_1.ipynb">
-      <provider selected="true" editor-type-id="jupyter-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/chapter2/strategy_base.ipynb">
       <provider selected="true" editor-type-id="jupyter-editor" />
     </entry>
@@ -502,8 +481,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/chapter3/3.1.6" />
     <entry file="file://$PROJECT_DIR$/chapter2/2.3.2.ipynb">
-      <provider selected="true" editor-type-id="jupyter-editor" />
       <provider editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="jupyter-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/chapter2/2.2.1.ipynb">
       <provider selected="true" editor-type-id="jupyter-editor" />
@@ -603,22 +582,7 @@
     <entry file="file://$PROJECT_DIR$/chapter3/3.4.2.ipynb">
       <provider selected="true" editor-type-id="jupyter-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/chapter4/4.2.2.ipynb">
-      <provider selected="true" editor-type-id="jupyter-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter4/4.2.1.ipynb">
-      <provider selected="true" editor-type-id="jupyter-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter4/4.2.3.ipynb">
-      <provider selected="true" editor-type-id="jupyter-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/chapter4/4.2.5.ipynb">
-      <provider selected="true" editor-type-id="jupyter-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter4/4.2.4.ipynb">
-      <provider selected="true" editor-type-id="jupyter-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter4/4.3.1.ipynb">
       <provider selected="true" editor-type-id="jupyter-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/chapter4/4.3.2.ipynb">
@@ -628,6 +592,27 @@
       <provider selected="true" editor-type-id="jupyter-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/chapter4/4.4.2.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter4/4.2.4.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter4/4.2.3.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter4/4.3.1.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter4/4.2.1.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter4/4.2.2.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter4/4.5.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter4/4.6.ipynb">
       <provider selected="true" editor-type-id="jupyter-editor" />
     </entry>
   </component>
